@@ -7,14 +7,13 @@ With a strong background in managing end-to-end data projects, I focus on aligni
 Whether you're a company seeking expertise for a specific project or a team looking for long-term collaboration, this space highlights some of the tools, projects, and approaches I use to deliver value.
 
 ## 🛠️ Tech Stack
----
+
 - **Languages**: Python, R, SQL  
 - **Machine Learning / AI**: scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers, OpenAI API, LLM integration workflows  
 - **Data Engineering**: Snowflake, Azure  
 - **Data Visualization**: Tableau, Power BI, Plotly, Matplotlib
 
 ## 🤓 Project Highlights  
----
 
 ### 🧠 Machine Learning  
 **Project:** *Clustering of French Cities and Rupture Detection of Voting Behavior*  
@@ -39,6 +38,6 @@ The project supports decision-making for policies aimed at improving water acces
 A comprehensive study of global malnutrition, food availability, and distribution.  
 The analysis includes mathematical evaluations of food security at global and national levels, with a focus on cereal consumption and selected countries.
 
-💌 Contact
----
+##💌 Contact
+
 Feel free to reach out at haejiyun@naver.com for consulting, collaboration, or project inquiries.
