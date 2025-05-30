@@ -6,29 +6,38 @@ With a strong background in managing end-to-end data projects, I focus on aligni
 
 Whether you're a company seeking expertise for a specific project or a team looking for long-term collaboration, this space highlights some of the tools, projects, and approaches I use to deliver value.
 
-### 🛠️ Tech Stack
-
+## 🛠️ Tech Stack
+---
 - **Languages**: Python, R, SQL  
 - **Machine Learning / AI**: scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers, OpenAI API, LLM integration workflows  
 - **Data Engineering**: Snowflake, Azure  
 - **Data Visualization**: Tableau, Power BI, Plotly, Matplotlib
 
-🤓 Project Highlights
+## 🤓 Project Highlights  
 ---
-Machine Learning
-Project: Clustering of French Cities and Rupture Detection of Voting Behavior
-Description
-A detailed analysis of French electoral behavior based on socio-economic data inspired by "Une histoire du conflit" by Thomas Piketty and Julia Cagé. This project utilizes unsupervised learning techniques like dimensionality reduction, clustering, and rupture detection to identify patterns and shifts in voting preferences across different regions in France. The study visually explores the relationship between voting behavior and factors such as income, education, and demographics, providing deep insights into the socio-political landscape.
 
-Data Visualization Portfolio
-Project: Drinking Water Access Dashboard
-Description
-A Tableau dashboard that visualizes global access to drinking water, with insights on population distribution, political stability, and mortality rates related to unsafe water. This project aims to guide decisions for optimizing water access policies and services.
+### 🧠 Machine Learning  
+**Project:** *Clustering of French Cities and Rupture Detection of Voting Behavior*  
+**Description:**  
+An in-depth analysis of French electoral behavior using socio-economic data, inspired by *Une histoire du conflit* by Thomas Piketty and Julia Cagé.  
+This project applies unsupervised learning techniques — including dimensionality reduction, clustering, and rupture detection — to identify patterns and shifts in voting preferences across French regions.  
+It explores how income, education, and demographics relate to voting behavior, offering insights into the socio-political landscape.
 
-Data Analysis Portfolio
-Project: Food Security Panorama
-Description
-A comprehensive analysis of global malnutrition, food availability, and distribution. The study includes mathematical calculations to assess food security at both global and country levels, with a focus on cereal products and specific countries.
+---
+
+### 📊 Data Visualization Portfolio  
+**Project:** *Drinking Water Access Dashboard*  
+**Description:**  
+A Tableau dashboard visualizing global access to drinking water, highlighting links with population distribution, political stability, and mortality due to unsafe water.  
+The project supports decision-making for policies aimed at improving water access and public health.
+
+---
+
+### 📈 Data Analysis Portfolio  
+**Project:** *Food Security Panorama*  
+**Description:**  
+A comprehensive study of global malnutrition, food availability, and distribution.  
+The analysis includes mathematical evaluations of food security at global and national levels, with a focus on cereal consumption and selected countries.
 
 💌 Contact
 ---
