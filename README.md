@@ -6,12 +6,12 @@ With a strong background in managing end-to-end data projects, I focus on aligni
 
 Whether you're a company seeking expertise for a specific project or a team looking for long-term collaboration, this space highlights some of the tools, projects, and approaches I use to deliver value.
 
-💪 Skills & Tools
----
-Languages: Python, R, SQL
-Machine Learning/ AI: Scikit-learn, TensorFlow, PyTorch, OpenAI API, LLM integration workflows, Hugging Face Transformers
-Data Engineering :  Snowflake, Azure
-Data Visualization: Tableau, Power BI, Plotly, Matplotlib
+### 🛠️ Tech Stack
+
+- **Languages**: Python, R, SQL  
+- **Machine Learning / AI**: scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers, OpenAI API, LLM integration workflows  
+- **Data Engineering**: Snowflake, Azure  
+- **Data Visualization**: Tableau, Power BI, Plotly, Matplotlib
 
 🤓 Project Highlights
 ---
