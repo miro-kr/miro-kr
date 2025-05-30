@@ -38,6 +38,6 @@ The project supports decision-making for policies aimed at improving water acces
 A comprehensive study of global malnutrition, food availability, and distribution.  
 The analysis includes mathematical evaluations of food security at global and national levels, with a focus on cereal consumption and selected countries.
 
-##💌 Contact
+## 💌 Contact
 
 Feel free to reach out at haejiyun@naver.com for consulting, collaboration, or project inquiries.
